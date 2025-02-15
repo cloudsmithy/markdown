@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "ed5e356a4ba73b9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a3b21bb2794a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c632994c805ed43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "f9e0c4680a5340e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "美食/在家炖一锅暖心暖胃的排骨莲藕汤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "在家炖一锅暖心暖胃的排骨莲藕汤"
+            }
+          },
+          {
+            "id": "d00de90977025ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macbook Pro快速搭建Easysearch学习环境"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49d5b41579eb359d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec00b5f20d06d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4401e522310ce037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7692d7d5d701bd19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9be0f597f1be81d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a99964d2c280fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "53aff3f5e87466d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e3c4c0d7f19d08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Macbook Pro快速搭建Easysearch学习环境 的反向链接列表"
+            }
+          },
+          {
+            "id": "cfc45fb3b6e88b99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Macbook Pro快速搭建Easysearch学习环境 的出链列表"
+            }
+          },
+          {
+            "id": "9564a33605518ea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c70a2f00b5c25209",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Macbook Pro快速搭建Easysearch学习环境 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4401e522310ce037",
+  "lastOpenFiles": [
+    "电子产品/追忆青春 - 黑群晖.md",
+    "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+    "电子产品/PXE 装机：iventoy 聊胜于无.md",
+    "电子产品/飞牛OS虚拟机初体验.md",
+    "开源软件/使用Nginx获取并返回客户端的公网IP地址.md",
+    "美食/在家炖一锅暖心暖胃的排骨莲藕汤.md",
+    "开源软件",
+    "软件效率",
+    "极限科技",
+    "电子产品",
+    "美食",
+    "电子产品/Proxmox Virtual Environment (PVE) 虚拟机安装不完全指南.md",
+    "README.md"
+  ]
+}
