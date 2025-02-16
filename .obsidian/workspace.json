@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "公众号待发布/草稿/重生之杜甫是穿越人.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "重生之杜甫是穿越人"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 371.5
   },
   "right": {
     "id": "1a99964d2c280fff",
@@ -185,22 +185,28 @@
   },
   "active": "634221f368e339d7",
   "lastOpenFiles": [
-    "更新计划.md",
+    "美食/在家炖一锅暖心暖胃的排骨莲藕汤.md",
+    "公众号待发布/更新计划.md",
     "软件效率/Typora 和Obsidian 自动使用 Github 做在线图床.md",
     "README.md",
+    "公众号待发布/草稿/杭州游记.md",
+    "公众号待发布/草稿/重生之杜甫是穿越人.md",
+    "公众号待发布/草稿/吕布.md",
+    "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+    "极限科技/CoCo AI APP 初体验：开启智能知识管理新篇章.md",
+    "电子产品/PXE 装机：iventoy 聊胜于无.md",
+    "电子产品/Proxmox Virtual Environment (PVE) 虚拟机安装不完全指南.md",
+    "电子产品/追忆青春 - 黑群晖.md",
+    "电子产品/飞牛OS虚拟机初体验.md",
+    "公众号待发布/草稿",
+    "公众号待发布/未命名.md",
+    "公众号待发布/有什么好的想法.md",
     "写作工作流.xmind",
     "Typora写作.xmind",
     "README~.md",
     "Pasted image 20250215131327.png",
-    "公众号待发布/有什么好的想法.md",
-    "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
     "公众号待发布",
-    "电子产品/飞牛OS虚拟机初体验.md",
-    "电子产品/追忆青春 - 黑群晖.md",
-    "电子产品/Proxmox Virtual Environment (PVE) 虚拟机安装不完全指南.md",
-    "电子产品/PXE 装机：iventoy 聊胜于无.md",
     "开源软件/使用Nginx获取并返回客户端的公网IP地址.md",
-    "美食/在家炖一锅暖心暖胃的排骨莲藕汤.md",
     "开源软件",
     "软件效率",
     "极限科技",
