@@ -1,3 +1,11 @@
+---
+tags:
+  - 极限科技
+category: 极限
+title: sss
+tasks: sss
+---
+
 
 本文将详细介绍如何将 Notion 作为语料库，部署 CoCo Server 的 RAG（Retrieval-Augmented Generation）功能。我们将使用 Easysearch 作为语料库存储 Notion 素材，并通过 ollama 进行 LLM 推理。
 

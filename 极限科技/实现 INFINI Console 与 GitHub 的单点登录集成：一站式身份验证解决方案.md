@@ -1,3 +1,4 @@
+#极限科技 
 
 本文将为您详细解析如何通过 GitHub OAuth 2.0 协议，为 INFINI Console 实现高效、安全的单点登录（Single Sign-On, SSO）集成。通过此方案，用户可直接使用 GitHub 账户无缝登录 INFINI Console，简化身份验证流程，提升系统安全性与用户体验。
 

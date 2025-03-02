@@ -1,3 +1,7 @@
+up[[电子产品]]
+
+
+
 前段时间，飞牛OS上线了虚拟机功能，尽管目前仍处于公测阶段，但已经可以尝鲜体验。官方文档也相当详细，感兴趣的可以参考：[虚拟机文档](https://help.fnnas.com/articles/fnosV1/virtual-machine/install.md)。
 
 ![](https://fastly.jsdelivr.net/gh/bucketio/img0@main/2025/02/08/1738986517925-87ab4dc4-009c-49ad-b012-981c27831baa.png)
