@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "1a99964d2c280fff",
@@ -173,17 +172,18 @@
   },
   "active": "8be14f44d7b1e634",
   "lastOpenFiles": [
+    "极限科技/推荐给 Easysearch 新用户的几个 Elasticsearch 可视化工具.md",
+    "极限科技/使用 INFINI Console 配置集群监控 Webhook 通知指南.md",
+    "极限科技/Coco AI APP 初体验：开启智能知识管理新篇章.md",
+    "AI 讲 AWS/云端秘境：EC2的奇幻之旅.md",
     "极限科技/实现 INFINI Console 与 GitHub 的单点登录集成：一站式身份验证解决方案.md",
+    "极限科技/极限科技.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
-    "极限科技/使用 INFINI Console 配置集群监控 Webhook 通知指南.md",
-    "极限科技/极限科技.md",
     "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
     "软件效率/手机网站存桌面.md",
     "极限科技/打造智能语料库：通过Coco AI Server 实现 Notion 笔记 RAG 检索功能.md",
-    "极限科技/Coco AI APP 初体验：开启智能知识管理新篇章.md",
-    "极限科技/推荐给 Easysearch 新用户的几个 Elasticsearch 可视化工具原.md",
     "电子产品/追忆青春 - 黑群晖.md",
     "电子产品/老式打印机改 Airprint 之cups.md",
     "电子产品/电子产品.md",
@@ -193,7 +193,6 @@
     "电子产品/飞牛OS虚拟机初体验.md",
     "软件效率/如何使用Iphone 拍摄 JPG格式的照片.md",
     "软件效率/Typora 和Obsidian 自动使用 Github 做在线图床.md",
-    "AI 讲 AWS/云端秘境：EC2的奇幻之旅.md",
     "美食/在家炖一锅暖心暖胃的排骨莲藕汤.md",
     "AI 讲 AWS",
     "开源软件/使用Nginx获取并返回客户端的公网IP地址.md",
