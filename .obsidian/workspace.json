@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cabe0d130744a582",
+        "id": "c0ab7b248a3a7d18",
         "type": "tabs",
         "children": [
           {
-            "id": "8be14f44d7b1e634",
+            "id": "e4d38472a3021d2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源软件/Flask RESTful API 小册子/目录.md",
+                "file": "极限科技/极限科技.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目录"
-            }
-          },
-          {
-            "id": "6a3f64724cec9099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "极限科技"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:极限科技",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,36 +170,37 @@
       "publish:发布更改": false
     }
   },
-  "active": "6a3f64724cec9099",
+  "active": "e4d38472a3021d2f",
   "lastOpenFiles": [
-    "未命名.md",
-    "未命名 1.md",
-    "公众号待发布/更新计划.md",
-    "电子产品/Cudy RT3000 刷Openwrt.md",
-    "极限科技/极限科技.md",
-    "README.md",
-    "未命名.canvas",
-    "电子产品/电子产品.md",
+    "极限科技/推荐给 Easysearch 新用户的几个 Elasticsearch 可视化工具.md",
+    "极限科技/拓展 Coco AI 功能 - 智能检索 Hexo 博客.md",
     "电子产品/飞牛OS虚拟机初体验.md",
     "电子产品/老式打印机改 Airprint 之cups.md",
-    "电子产品/追忆青春 - 黑群晖.md",
+    "电子产品/群晖套娃飞牛OS（FnOS）.md",
+    "电子产品/Cudy RT3000 刷Openwrt.md",
     "电子产品/NAS 体验文章.md",
-    "电子产品/Proxmox Virtual Environment (PVE) 虚拟机安装不完全指南.md",
-    "电子产品/PXE 装机：iventoy 聊胜于无.md",
+    "极限科技/极限科技.md",
+    "极限科技/打造智能语料库：通过Coco AI Server 实现 Notion 笔记 RAG 检索功能.md",
+    "极限科技/实现 INFINI Console 与 GitHub 的单点登录集成：一站式身份验证解决方案.md",
+    "极限科技/使用 INFINI Console 配置集群监控 Webhook 通知指南.md",
+    "极限科技/Coco AI APP 初体验：开启智能知识管理新篇章.md",
     "极限科技/Easysearch 使用 AWS S3 进行快照还原及常见报错.md",
+    "极限科技/Macbook Pro快速搭建Easysearch学习环境.md",
+    "电子产品/电子产品.md",
+    "开源软件/从 Flask 项目打包为多平台 Docker 镜像并上传 Docker Hub（含 GitHub Actions）.md",
+    "电子产品/DSM 外接磁盘挂载记录.md",
+    "电子产品/群晖导入磁盘大法 - 安装img.md",
+    "公众号待发布/更新计划.md",
+    "电子产品/PXE 装机：iventoy 聊胜于无.md",
+    "电子产品/追忆青春 - 黑群晖.md",
+    "美食/在家炖一锅暖心暖胃的排骨莲藕汤.md",
+    "s.py",
+    "开源软件/Flask RESTful API 小册子/目录.md",
+    "README.md",
+    "软件效率/手机网站存桌面.md",
+    "未命名 1.md",
+    "未命名.canvas",
     "极限科技.xmind",
-    "开源软件/Flask RESTful API 小册子/2. 环境准备.md",
-    "开源软件/Flask RESTful API 小册子/1. 简介.md",
-    "开源软件/Flask RESTful API 小册子/集成 OAuth 和 OIDC 实现单点登录（SSO）**.md",
-    "开源软件/Flask RESTful API 小册子/13. 附录.md",
-    "开源软件/Flask RESTful API 小册子/12. 实战项目.md",
-    "开源软件/Flask RESTful API 小册子/11. 部署与优化.md",
-    "开源软件/Flask RESTful API 小册子/10. API 文档与测试.md",
-    "开源软件/Flask RESTful API 小册子/9. 高级功能.md",
-    "开源软件/Flask RESTful API 小册子/8. 错误处理与日志.md",
-    "开源软件/Flask RESTful API 小册子/7. 用户认证与授权.md",
-    "开源软件/Flask RESTful API 小册子/6. 数据库集成.md",
-    "开源软件/Flask RESTful API 小册子/5. 数据验证与序列化.md",
     "开源软件/Flask RESTful API 小册子",
     "未命名 2.canvas",
     "未命名 1.canvas",
@@ -226,7 +212,6 @@
     "Typora写作.xmind",
     "Pasted image 20250215131327.png",
     "公众号待发布",
-    "开源软件",
-    "软件效率"
+    "开源软件"
   ]
 }

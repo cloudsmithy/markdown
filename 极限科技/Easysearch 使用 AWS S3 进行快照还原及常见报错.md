@@ -1,3 +1,9 @@
+---
+title: Easysearch 使用 AWS S3 进行快照还原及常见报错
+date: 2025-03-25 20:46:04
+tags: []
+categories: [极限科技]
+---
 
 
 Easysearch 可以使用 **AWS S3** 作为远程存储库，进行索引的快照（Snapshot）备份和恢复。同时，Easysearch 内置了 S3 插件，无需额外安装。以下是完整的配置和操作步骤。

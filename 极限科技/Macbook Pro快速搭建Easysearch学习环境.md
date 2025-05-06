@@ -1,4 +1,10 @@
-#极限科技 
+---
+title: Macbook Pro快速搭建Easysearch学习环境
+date: 2025-03-25 20:46:04
+tags: []
+categories: [极限科技]
+---
+# 极限科技
 
 在学习过程中，我们有时身边没有可用的服务器，这时就需要借助自己的 Mac 来安装和学习 Easysearch。然而，Easysearch 官网并未提供 Mac 版本的安装教程，下面我将详细整理我在 Mac 上安装和使用 Easysearch 的折腾经历。![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e549bc7f2a41481e8c7a49817bf9d76d.png)
 
