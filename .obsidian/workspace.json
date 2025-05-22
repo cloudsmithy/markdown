@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "极限科技"
             }
+          },
+          {
+            "id": "7680685459946ba3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "e4d38472a3021d2f",
+  "active": "4401e522310ce037",
   "lastOpenFiles": [
     "极限科技/推荐给 Easysearch 新用户的几个 Elasticsearch 可视化工具.md",
     "极限科技/拓展 Coco AI 功能 - 智能检索 Hexo 博客.md",
