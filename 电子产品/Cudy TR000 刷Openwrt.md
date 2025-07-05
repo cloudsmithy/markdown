@@ -1,5 +1,5 @@
 
-# Cudy RT3000 刷Openwrt
+# Cudy TR3000 刷Openwrt
 想了好久，还是有必要把软路由从 All in one 中分离开，基于性价比的原因，看上了这款Cudy RT3000，相对于400 价位的 MT3000 而言，内存只有 128M，而且没有风扇，不过也已经足够了。![image-20250310223410001](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250310223410001.png)
 
 据说是出口转内销，不过我的这个是纯中文版本。成品长这样，和 MT3000 很像 。
